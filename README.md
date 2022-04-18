@@ -9,7 +9,7 @@ The company which can makes happy everyone remembering and wishing them their sp
 https://www.djangoproject.com/start/
 ## Company Logo
 
-<img src="https://github.com/Vissamsetty-Bharathrath/Wishesfeb11/blob/master/multiple_images.jpg" alt="Logo" width="200"/>
+<img src="https://github.com/Vissamsetty-Bharathrath/Multiple-Wishes-Django-App/blob/master/multiple_images.jpg" alt="Logo" width="200"/>
 
 > Greet Even When You Are Asleep.
 ## Appendix
