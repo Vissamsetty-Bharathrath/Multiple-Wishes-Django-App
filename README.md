@@ -86,15 +86,11 @@ To deploy this project run
 
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" border="0" alt="Visual studio code" title="" /></a>
 
-<a href="https://slack.com/intl/en-in/get-started#/createnew"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" border="0" alt="Slack" title="Slack" /></a>
-
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" border="0" alt="Bootstrap" title="Bootstrap" /></a>
 
-<a href="https://slack.com/intl/en-in/get-started#/createnew"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" border="0" alt="Aws" title="Aws" /></a>
+<a href="https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" border="0" alt="Aws" title="Aws" /></a>
 
-<a href="https://slack.com/intl/en-in/get-started#/createnew"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" border="0" alt="Gmail" title="Gmail" /></a>
 
-  
   	
 ## Contributing
 
@@ -107,5 +103,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, email   saikrishnavadali05@gmail.com or join our Slack channel.
+For support, <a href="https://slack.com/intl/en-in/get-started#/createnew"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" border="0" alt="Gmail" title="Gmail" /></a> email   saikrishnavadali05@gmail.com or join our <a href="https://slack.com/intl/en-in/get-started#/createnew"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" border="0" alt="Slack" title="Slack" /></a> Slack channel.
 
