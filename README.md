@@ -54,7 +54,7 @@ To deploy this project run
 #### *Clone the project*
 
 ```bash
-  git clone https://github.com/Vissamsetty-Bharathrath/Wishesfeb11.git
+  git clone https://github.com/Vissamsetty-Bharathrath/Multiple-Wishes-Django-App.git
 ```
 
 #### *Go to the project directory*
